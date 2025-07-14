@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Profile
 
-My name is **Michał Hejman** and I am a computer science student at Wroclaw University of Science and Technology. My goal is to become a Full-Stack Developer in the future, and I’m passionate about learning new technologies and building real-world projects.
+My name is **Michał Hejman** and I am a computer science student at Wroclaw University of Science and Technology. My goal is to become a Full-Stack Developer, and I’m passionate about learning new technologies and building real-world projects.
 
 ### Contact
 
