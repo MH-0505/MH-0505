@@ -29,7 +29,7 @@ My name is **Michał Hejman** and I am a computer science student at Wroclaw Uni
 | Project                 | Description                                      | Tech Stack         |
 |-------------------------|--------------------------------------------------|--------------------|
 | [![SmartCMMS](https://img.shields.io/badge/-SmartCMMS-0096ed?logo=github&logoColor=white&link=https://github.com/MH-0505/SmartCMMS-frontend)](https://github.com/MH-0505/SmartCMMS-frontend) | A system that helps facility managers manage teams of maintenance technicians.  | React.js, Python (Django)        |
-| [![Book-Market](https://img.shields.io/badge/-Book--Market-edaa00?logo=github&logoColor=white&link=https://github.com/MH-0505/book-market)](https://github.com/MH-0505/book-market) | Web application for browsing and trading books, created to learn modern frontend React framework. | React.js, Firebase BaaS |
+| [![Books](https://img.shields.io/badge/-Books-edaa00?logo=github&logoColor=white&link=https://github.com/MH-0505/BooksServer)](https://github.com/MH-0505/BooksServer) | A social networking service for book readers that enables users to catalog their collections, publish reviews, and list books for sale or exchange.  | React.js, Python (Django), TailwindCSS |
 
 
 
