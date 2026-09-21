@@ -18,6 +18,7 @@ My name is **Michał Hejman** and I am a computer science student at Wroclaw Uni
   - React
   - Django
   - Spring Boot
+  - Odoo
 - Other technologies:
   - Git
   - PostgreSQL
